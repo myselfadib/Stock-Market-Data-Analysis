@@ -25,6 +25,6 @@ This project analyzes stock market data using Python with libraries like Pandas,
 
 ## Author:
 - **Adib Hasan**  
-  [Connect with me on LinkedIn](https://www.linkedin.com/in/adib-hasan-19n/)
+  [Connect with me on LinkedIn](https://www.linkedin.com/in/adibhasan1/)
 
 This analysis equips users with a deeper understanding of stock market dynamics and serves as a foundation for further financial studies.
